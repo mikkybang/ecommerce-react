@@ -12,8 +12,7 @@
     "heroku-postbuild": "cd client && yarn && yarn run build",
     "client": "cd client && yarn start",
     "server": "nodemon index.js",
-    "dev": "concurrently --kill-others-on-fail \"yarn server\" \"yarn client\"",
-    "kill": "killall -9 node"
+    "dev": "concurrently --kill-others-on-fail \"yarn server\" \"yarn client\""
   },
   "dependencies": {
     "bcrypt-nodejs": "^0.0.3",
