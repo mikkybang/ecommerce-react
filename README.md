@@ -1,4 +1,4 @@
-# React template (MERN stack) ecommerce (ultra light: 100ko)
+# React/node.js template (MERN stack) ecommerce (light bundle: 100ko)
 
 ## Demo
 
